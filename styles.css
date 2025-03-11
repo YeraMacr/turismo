@@ -75,7 +75,7 @@ h1 {
 .media {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 40px;
     justify-content: center;
 }
 
